@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(80, 75, 75) !important;
+}
+
+.col-md-7{
+    margin-top: 150px !important;
+    background-color: #fff;
+    padding-bottom: 5px;
+    border: 2px solid orangered;
+    border-radius: 1rem;
+}
+
+h2{
+    display: flex;
+    align-items: flex-start;
+}
+
+li{
+    display: flex;
+    align-self: start;
+    list-style: none;
+    margin: 1rem;
+}
+
+button{
+    margin-top: 1rem !important;
+}
+
+
+
